@@ -1,0 +1,12 @@
+name: DapAppV2
+title: DapAppV2
+username: lakshin
+account: lakshin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10306176
+bundleId: 7850089
+url: https://lakshin.shinyapps.io/DapAppV2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
